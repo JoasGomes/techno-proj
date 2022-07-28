@@ -1,0 +1,20 @@
+{
+    "id": "notebook",
+    "nome": "Notebook",
+    "preco": 2999,
+    "descricao": "tecnologia multinacional americana que se concentra em tecnologia de mecanismos de pesquisa, publicidade online, computação em nuvem, software de computador, computação quântica, comércio eletrônico, inteligência artificial e eletrônicos de consumo. ",
+    "estoque": 12,
+    "img": "./api/produots/notebook/notebook-foto.jpg",
+    "avaliacoes": [
+      {
+        "nome": "Fábio",
+        "estrelas": 5,
+        "descricao": "gostei muito do produto,top de linha."
+      },
+      {
+        "nome": "Nathalia",
+        "estrelas": 5,
+        "descricao": "gostei muito do produto,podia ser mais barato."
+      }
+    ]
+}
